@@ -2,7 +2,7 @@
 
 | Ilość punktów do zdobycia  | Hard deadline   |
 | ------------ | ------------ |
-| 15  | 20.03.2021  |
+| 15  | 19.03.2023  |
 
 ### Zadanie 1
 Napisz program, który obliczy pole prostokąta o bokach a i b, wprowadzonych wcześniej przez użytkownika (każda wartość będzie znajdować się w osobnej linii).
